@@ -16,7 +16,7 @@ weight: 10
 ## Introduction
 
 Cet article a pour but de présenter les prinpales utilités de ChatGPT pour la création de contenu. Comment l'utiliser pour gagner du temps dans son workflow, ou pour s'aider ? Je résume principalement les propos appris dans l'article suivant : https://www.lebigdata.fr/chatgpt-marketing
-
+<!-- //test -->
 ## ChatGPT, l'AI au service de la création dans le web
 
 Depuis 2 mois, sur le web, on ne parle plus que de ChatGPT, IA développé par OpenAI. Après la découverte d'un algorithme surpuissant, de nombreuses questions se soulèvent. L'une d'entre-elles, qui m'intéresse particulièrement, est "comment ChatGPT peut nous aider dans la création de contenu sur le web ?". Car, en testant l'outil, il devient assez rapidement évident qu'alors qu'il ne peut pas, pour l'instant, remplacer complètement une personne, de par son manque de subtilité, il peut nous assister dans nos tâches.
