@@ -17,8 +17,7 @@ weight: 10
 
 Cet article présente 10 métiers pour devenir digital nomad en 2023 et vise à répondre à la question "Quelles compétences un digital nomad devrait prioritairement développer afin de trouver du travail et avoir ce rythme de vie ?". Il se base sur un article sur lesquel je suis tombé :
 
-**- 10 métiers pour devenir digital nomad** (https://www.maformation.fr/actualites/metiers-digital-nomad-66185)
-
+**- [10 métiers pour devenir digital nomad](https://www.maformation.fr/actualites/metiers-digital-nomad-66185)** 
 
 Ce sujet est pertinent pour moi, étant donné que si je souhaite avoir ce mode de vie, je dois ainsi voir quelles compétences seraient intéressantes pour moi d'acquérir. Même si je me doute que j'en possède sûrement quelques-unes liées au web.
 
