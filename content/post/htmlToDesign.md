@@ -19,7 +19,7 @@ Cet article a pour but de présenter un nouveau plugin compatible avec Figma qui
 
 ## Du site web inspirant à la maquette, en 1 clic
 
-Description
+L'article "Comment convertir un site web HTML en design Figma" explique comment utiliser l'outil Figma pour créer une maquette de design à partir d'un site web existant en HTML. Il montre comment utiliser l'inspecteur de code pour extraire les éléments HTML et CSS d'un site web, puis comment les utiliser pour créer des formes et des styles dans Figma. Il montre également comment utiliser les calques Figma pour organiser les éléments du design, et comment utiliser les outils de partage de Figma pour travailler en collaboration avec d'autres personnes sur le design. Il explique que cela peut être utile pour les concepteurs web pour créer un prototype de leur site web avant de l'implémenter.
 
 
 ### En résumé
