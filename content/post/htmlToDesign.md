@@ -24,5 +24,5 @@ L'article "Comment convertir un site web HTML en design Figma" explique comment 
 
 ### En résumé
 
-Ce plugin est assez incroyable.
+Ce plugin est assez incroyable et permet réellement de passer d'un site web qui nous plait à une maquette Figma. Cet article me sert déjà maintenant, je suis allé directement testé le plugin et ai été bluffé par la précision de l'import du site web. J'ai pris le site web d'Apple, ceci me permet notamment de récupérer les mockup des macbook pro par exemple. Je vais continuer à l'utiliser dans un futur pour récupérer des éléments de site web.
 
