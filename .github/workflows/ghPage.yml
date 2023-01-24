@@ -2,7 +2,8 @@ name: GitHub Pages
 
 on:
   push:
-
+    branches:
+      - main  # Set a branch to deploy
   pull_request:
 
 jobs:
