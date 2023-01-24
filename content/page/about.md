@@ -3,10 +3,11 @@
 author: "Florian Quadri"
 date: 2023-01-21T08:00:49+01:00
 linktitle: À mon propos
-image: 'img/pp.png'
 title: À mon propos
 weight: 10
 ---
+
+![mon ikigai](/labVeillTech/img/me.png)
 
 Je m’appelle Florian Quadri, j’ai 26 ans, et si je suis épanoui dans mon travail aujourd’hui, c’est grâce au chemin personnel et professionnel que j’ai emprunté ces dernières années…
 
