@@ -13,5 +13,4 @@ weight: 10
 
 Je suis heureux de pouvoir présenter mon Ikigai, qui ma motiver la suite de mes recherches. Je remarque que l'ensemble des compétences que je souhaite utiliser, avec ma vision de la vie et mon envie de voyager, m'amène idéalement vers le profil de digital nomad.
 
-[Voir mon Ikigai](https://portfolio.inmyeyes.ch/)
 
