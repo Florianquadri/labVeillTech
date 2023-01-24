@@ -1,0 +1,39 @@
+baseurl = "http://example.com"
+languageCode = "en"
+title = "IKIGAI Florian Quadri"
+copyright = "Copyright Florian Quadri 2022"
+paginate = 3
+
+googleAnalytics = "Yout Google Analytics ID"
+
+theme = "minimage"
+
+[params]
+  description = "6 articles de veille sur le job de mes rêves"
+  author = "Florian Quadri"
+  logo = '/img/waow.png'
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+  [[menu.global]]
+    name = "À mon propos"
+    url = "/page/about"
+
+[[menu.global]]
+    name = "Mon IKIGAI"
+    url = "/page/ikigai"
+
+[[menu.global]]
+    name = "Home"
+    url = "/"
+
+[[menu.footer]]
+    name = "À mon propos"
+    url = "/page/about/"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
