@@ -29,9 +29,16 @@ theme = "minimage"
     name = "Home"
     url = "/"
 
+
 [[menu.footer]]
     name = "À mon propos"
     url = "/page/about/"
+
+        [[menu.footer]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/florianquadri/"
+    logo = '/img/waow.png'
+
 
 [sitemap]
   changefreq = "monthly"
