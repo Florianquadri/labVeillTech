@@ -45,4 +45,4 @@ Ce TweetLonger représente un début d'idées où m'installer en tant que digita
 
 ### En résumé
 
-Ce TweetLonger présente 7 des meilleures destinations pour vivre avec un petit revenu en tant que digital nomad, et me permettra d'obtenir des idées de lieux où m'installer quand j'aurai décroché un contrat à temps partiel en télétravail.
+Cet article m'est très utile : ce TweetLonger présente 7 des meilleures destinations pour vivre avec un petit revenu en tant que digital nomad, et me permettra d'obtenir des idées de lieux où m'installer quand j'aurai décroché un contrat à temps partiel en télétravail (ou grâce à mon statut d'indépendant). Il est, en effet, parfois difficile d'avoir un grand revenu en débutant ce mode de vie, c'est pourquoi avoir une liste de destinations où je peux vivre de manière abordable est pertinent pour ma vie future.
